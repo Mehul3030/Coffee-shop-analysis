@@ -28,5 +28,6 @@ The data for this dashboard is fictional but based on common coffee shop sales p
 
 ### Contact
 
-
-For more information or questions, feel free to reach out to (mehulpatil1000@gmail.com).
+* I am a data analyst passionate about transforming data into actionable insights.  This project demonstrates my skills in data visualization and my ability to communicate complex information through interactive dashboards.  Connect with me on [LinkedIn](https://www.linkedin.com/in/mehul-patil-05687b1b7/).
+  
+* For more information or questions, feel free to reach out to (mehulpatil1000@gmail.com).
